@@ -23,6 +23,7 @@ c++ / c# / python
 * [discord username scanner](https://github.com/developerhv/discord-username) — pattern scan, no offsets
 * [iw7 fps unlocker](https://github.com/developerhv/iw7-fps-unlocker) — uncaps fps
 * [keyauth example](https://github.com/developerhv/KeyAuth-CPP-Example) — auth layering
+* [fortnite offsets & structures](https://github.com/developerhv/fortnite-offsets) — fortnite offsets
 
 ## contact
 
