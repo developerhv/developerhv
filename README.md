@@ -2,21 +2,29 @@
 
 ## what i do
 
-- anticheat evasion
-- hypervisor is good stuff
+* low-level / systems stuff
+* reverse engineering / runtime analysis
+* hypervisor work
+* software protection / obfuscation
 
 ## been around
 
-- frontend + backend for multiple p2cs
-- cheats & spoofers
-- loader protection / obfuscation
+* frontend + backend for multiple projects
+* loaders, tooling, random low-level stuff
+* kernel drivers 
+* research on runtime integrity, hardware abstraction, and TPM-related techniques
+
+## languages
+
+c++ / c# / python
 
 ## public repos
 
-- [discord username scanner](https://github.com/developerhv/discord-username) — pattern scan, no offsets
-- [iw7 fps unlocker](https://github.com/developerhv/iw7-fps-unlocker) — uncaps fps
-- [keyauth example](https://github.com/developerhv/KeyAuth-CPP-Example) — auth layering
+* [discord username scanner](https://github.com/developerhv/discord-username) — pattern scan, no offsets
+* [iw7 fps unlocker](https://github.com/developerhv/iw7-fps-unlocker) — uncaps fps
+* [keyauth example](https://github.com/developerhv/KeyAuth-CPP-Example) — auth layering
 
 ## contact
 
-kizleytm@emulated.wtf
+[developerhv@proton.me](mailto:developerhv@proton.me)
+
