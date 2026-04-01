@@ -1,16 +1,22 @@
-## Hi there 👋
+# mr developer :)
 
-<!--
-**developerhv/developerhv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## what i do
 
-Here are some ideas to get you started:
+- anticheat evasion
+- hypervisor is good stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## been around
+
+- frontend + backend for multiple p2cs
+- cheats & spoofers
+- loader protection / obfuscation
+
+## public repos
+
+- [discord username scanner](https://github.com/developerhv/discord-username) — pattern scan, no offsets
+- [iw7 fps unlocker](https://github.com/developerhv/iw7-fps-unlocker) — uncaps fps
+- [keyauth example](https://github.com/developerhv/KeyAuth-CPP-Example) — auth layering
+
+## contact
+
+kizleytm@emulated.wtf
