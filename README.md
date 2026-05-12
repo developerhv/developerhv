@@ -1,17 +1,8 @@
 # hv
 
-systems programming / reverse engineering
+low-level developer focused on systems programming, reverse engineering, runtime analysis, hypervisor research, and software protection.
 
-focused on low-level development, runtime analysis, hypervisor research, software protection, and kernel development.
-
----
-
-## languages
-
-- c++
-- c#
-- python
-- node.js
+experience with kernel development, tooling, loaders, runtime integrity research, and hardware-backed security concepts.
 
 ---
 
@@ -42,15 +33,14 @@ https://github.com/developerhv/fortnite-offsets
 ## github stats
 
 <p>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=developerhv&show_icons=true&theme=github_dark&hide_border=true">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=developerhv&layout=compact&theme=github_dark&hide_border=true">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=developerhv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff">
 </p>
 
 ---
 
 ## profile views
 
-![](https://komarev.com/ghpvc/?username=developerhv&color=grey)
+![](https://komarev.com/ghpvc/?username=developerhv&style=flat&color=2f81f7)
 
 ---
 
