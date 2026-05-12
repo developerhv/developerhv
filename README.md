@@ -1,36 +1,41 @@
 # hv
 
-low level / systems stuff
+systems programming / reverse engineering
 
-reverse engineering, runtime analysis, hypervisor work, protection research, kernel shit, random tooling
+focused on low-level development, runtime analysis, hypervisor research, software protection, and kernel development.
 
 ---
 
-## langs
+## languages
 
 - c++
 - c#
 - python
-- some node
+- node.js
 
 ---
 
-## stuff i made
+## projects
 
 ### discord username scanner
-pattern scan based username scanner, no offsets
+pattern scan based username scanner without offsets
 
 https://github.com/developerhv/discord-username
 
 ### iw7 fps unlocker
-uncaps fps for iw7
+fps unlocker for infinite warfare (iw7)
 
 https://github.com/developerhv/iw7-fps-unlocker
 
 ### keyauth cpp example
-basic auth layering example
+authentication layering example using keyauth
 
 https://github.com/developerhv/KeyAuth-CPP-Example
+
+### fortnite offsets & structures
+offsets / structure research repository
+
+https://github.com/developerhv/fortnite-offsets
 
 ---
 
@@ -43,7 +48,7 @@ https://github.com/developerhv/KeyAuth-CPP-Example
 
 ---
 
-## views
+## profile views
 
 ![](https://komarev.com/ghpvc/?username=developerhv&color=grey)
 
