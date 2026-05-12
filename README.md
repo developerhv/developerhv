@@ -23,11 +23,6 @@ authentication layering example using keyauth
 
 https://github.com/developerhv/KeyAuth-CPP-Example
 
-### fortnite offsets & structures
-offsets / structure research repository
-
-https://github.com/developerhv/fortnite-offsets
-
 ---
 
 ## github stats
