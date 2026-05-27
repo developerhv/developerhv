@@ -8,10 +8,15 @@ experience with kernel development, tooling, loaders, runtime integrity research
 
 ## projects
 
-### discord username scanner
+### discord username fetch
 pattern scan based username scanner without offsets
 
 https://github.com/developerhv/discord-username
+
+### reworked version of previous discord username fetch
+works without opening any handles inside of memory.
+
+https://github.com/developerhv/discord-usernameV2
 
 ### iw7 fps unlocker
 fps unlocker for infinite warfare (iw7)
